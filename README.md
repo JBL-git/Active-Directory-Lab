@@ -18,7 +18,7 @@ I started by using nmap to scan for devices on the local network I set up for th
 ## What I learned
 I took poor notes and I didn't save or take pictures of some of my progress as I was going through the lab. Unfortunately, my kali attacker machine crashed as I got in through to the Domain Controller. Because of this, I didn't have any proof that I was able to root the Domain Controller and I had to go and figure out which of the methods I did worked since I was attempted multiple things. 
 
-I should have done the traditional route of Recon, Scan, Enumerate, Exploit, Escalate, Maintain like how I was taught instead of just testing and trying different things. This wasted enourmous amounts of my time and could have reduced the quality of my pentest report as well as miss vulnerabilities.
+I should have done the traditional route of penetration testing methodology like how I was learned instead of just testing and trying different things. This wasted enourmous amounts of my time and could have reduced the quality of my pentest report as well as miss vulnerabilities.
 
 
 
